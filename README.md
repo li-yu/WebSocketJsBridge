@@ -1,4 +1,4 @@
 # WebSocketJsBridge
 A WebSocket JsBridge demo.
 
-![](screenshot.png)
+<img src="screenshot.png" width="40%" height="40%" alt="screenshot"/>
